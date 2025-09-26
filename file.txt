@@ -1,3 +1,0 @@
-#file.txt
-
-Ini adalah file pertama saya
